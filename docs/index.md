@@ -17,3 +17,25 @@ If you would like to join the petition and you haven't already, you can do so [h
 ### Our Solutions
 
 The main solution that we would like is to use the CWC Silver Lake phone policy. They are a middle school that has been around for a lot longer, and that has a phone policy that works out well for both the students AND the administration.
+
+## Our 4-Step Plan
+
+**Step One: Build an Argument - Complete**
+
+We've built a successful argument, including the fact that we will all be high schoolers in just years.
+
+**Step Two: Make, Distribute and Sign a Petition - Working on This**
+
+So far, we've made and distributed the petitions.  We've received back the number of signatures from 6th and 8th grade, totaling 52 signatures.
+
+**Step Three: Write an Essay with the Argument - Working on This**
+
+We've written multiple essays, but we're still editing them to perfection.
+
+**Step Four: Take the Essays and the Petition to a Student Council Meeting - Upcoming**
+
+There is no scheduled student council meeting coming up because we have just found a new advisor for student council.  We will try to find a time for a student council meeting, where we will bring up the petition and the essays.  That will be where our efforts meet the administration.
+
+## Updates
+
+For updates, you can go to our site Wiki Files, where you can find information on both petition updates, and site updates.  You can find the Wiki Files [here](https://github.com/Gantzos/Phone-Petition/wiki).
