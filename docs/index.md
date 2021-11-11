@@ -38,6 +38,6 @@ We've written multiple essays, but we're still editing them to perfection.
 
 There is no scheduled student council meeting coming up because we have just found a new advisor for student council.  We will try to find a time for a student council meeting, where we will bring up the petition and the essays.  That will be where our efforts meet the administration.
 
-## Updates
+## History
 
-For updates, you can go to our site Wiki Files, where you can find information on both petition updates, and site updates.  You can find the Wiki Files [here](https://github.com/Gantzos/Phone-Petition/wiki).
+To learn about the history of the petition, research and even this website, go to the Wiki Files.  You can find the Wiki Files [here](https://github.com/Gantzos/Phone-Petition/wiki).
