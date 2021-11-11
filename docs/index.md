@@ -2,7 +2,9 @@
 
 Many students dislike the new phone policy, where at the beginning of the day you turn in your phone to the teacher, who puts it in a box, and at the end of the day you receive it back. Many students feel that they are being treated as though they are younger than they really are, with CWC Silver Lake only requiring that you turn in your phone at the beginning of class, and receiving it at the end. And, instead of a box, students place their phones in a special [Cell Phone Holder](https://www.amazon.com/Numbered-Classroom-Calculator-Hanging-Organizer/dp/B01EX0IZ0Y).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After learning about this method from CWC Silver Lake, and having at least one screen protector broken in less than a week, students want very badly to adopt this policy, too. The school first took away phones when they had been seen, then they took them away before students went to the restrooms. Now, students don't have their phones at all during the school day. Students do not at all like that. Putting your phone in and taking it out of the box takes away from a lot of learning.
+
+All the middle school students are quite close to high school, where there won't be nearly as strict of a phone policy. That said, we must be treated like future high schoolers. We can't be expected to leave nutrition or lunch in time without a teacher telling us, because our phones and watches have been taken away and put in a big black box with the rest of the devices from our classmates.
 
 ### Markdown
 
