@@ -10,7 +10,8 @@ All the middle school students are quite close to high school, where there won't
 
 There is currently a petition in circulation, and names have already come in from 6th grade, and soon 8th. The 7th grade petition is still being signed. We also have a lot of names already:
 # 52
-[Click Here to View the Petition](https://drive.google.com/file/d/15MLscMJEdBkjq5OY8gjFgSzsG-gyLKxK/view?usp=sharing)
+[Click Here to View the Petition Document](https://drive.google.com/file/d/15MLscMJEdBkjq5OY8gjFgSzsG-gyLKxK/view?usp=sharing).
+If you would like to join the petition and you haven't already, you can do so [here](https://forms.gle/J9yysP7t8qumxwY7A).
 
 ### Our Solutions
 
