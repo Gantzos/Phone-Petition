@@ -1,6 +1,6 @@
 ## Welcome to the Official Phone Petition Site!
 
-You can use the [editor on GitHub](https://github.com/Gantzos/Phone-Petition/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Many students dislike the new phone policy, where at the beginning of the day you turn in your phone to the teacher, who puts it in a box, and at the end of the day you receive it back. Many students feel that they are being treated as though they are younger than they really are, with CWC Silver Lake only requiring that you turn in your phone at the beginning of class, and receiving it at the end. And, instead of a box, students place their phones in a special [Cell Phone Holder](https://www.amazon.com/Numbered-Classroom-Calculator-Hanging-Organizer/dp/B01EX0IZ0Y).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
