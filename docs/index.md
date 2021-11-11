@@ -15,4 +15,3 @@ There is currently a petition in circulation, and names have already come in fro
 ### Our Solutions
 
 The main solution that we would like is to use the CWC Silver Lake phone policy. They are a middle school that has been around for a lot longer, and that has a phone policy that works out well for both the students AND the administration.
-![Image](https://m.media-amazon.com/images/I/71DFb6TAF+L._AC_SX466_.jpg)
