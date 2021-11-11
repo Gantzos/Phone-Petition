@@ -4,36 +4,15 @@ Many students dislike the new phone policy, where at the beginning of the day yo
 
 After learning about this method from CWC Silver Lake, and having at least one screen protector broken in less than a week, students want very badly to adopt this policy, too. The school first took away phones when they had been seen, then they took them away before students went to the restrooms. Now, students don't have their phones at all during the school day. Students do not at all like that. Putting your phone in and taking it out of the box takes away from a lot of learning.
 
-All the middle school students are quite close to high school, where there won't be nearly as strict of a phone policy. That said, we must be treated like future high schoolers. We can't be expected to leave nutrition or lunch in time without a teacher telling us, because our phones and watches have been taken away and put in a big black box with the rest of the devices from our classmates.
+All the middle school students are quite close to high school, where there won't be nearly as strict of a phone policy. That said, we must be treated like future high schoolers. We can't be expected to leave nutrition or lunch on time without a teacher telling us, because our phones and watches have been taken away and put in a big black box with the rest of the devices from our classmates. In other words, if we're expected to be responsible in high school, we must be given the opportunity to be so in middle school.
 
-### Markdown
+### Petition
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There is currently a petition in circulation, and names have already come in from 6th grade, and soon 8th. The 7th grade petition is still being signed. We also have a lot of names already:
+# 52
+[Click Here to View the Petition](https://drive.google.com/file/d/15MLscMJEdBkjq5OY8gjFgSzsG-gyLKxK/view?usp=sharing)
 
-```markdown
-Syntax highlighted code block
+### Our Solutions
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gantzos/Phone-Petition/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The main solution that we would like is to use the CWC Silver Lake phone policy. They are a middle school that has been around for a lot longer, and that has a phone policy that works out well for both the students AND the administration.
+![Image](https://m.media-amazon.com/images/I/71DFb6TAF+L._AC_SX466_.jpg)
