@@ -41,3 +41,11 @@ There is no scheduled student council meeting coming up because we have just fou
 ## History
 
 To learn about the history of the petition, research and even this website, go to the Wiki Files.  You can find the Wiki Files [here](https://github.com/Gantzos/Phone-Petition/wiki).
+
+## Progress
+
+**18 6th Grade Signatures (Only One Class Done) (Petition Counted) (Petition Turned In)**
+
+**0 7th Grade Signatures (Petition Not Yet Circulating)**
+
+**34 8th Grade Signatures (Peititon Counted) (Petition Not Yet Turned In)**
